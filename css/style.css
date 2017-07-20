@@ -1,0 +1,12 @@
+.header_banner {
+
+  background-image: url("./images/the-flatiron-building.png")
+}
+
+h1,
+h2,
+h3,
+h4
+p{
+  font family: Helvetica;
+}
